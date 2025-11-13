@@ -1,7 +1,9 @@
 # command-runner
+
+## Overview
 VS Code extension that puts execution control at your fingertips. Quickly run commands, scripts, and launch applications directly from a convenient sidebar panel, eliminating the need for terminal windows or complex workflows.
 
-# Key Features
+## Key Features
 🚀 One-Click Command Execution
 - Instant Access: Execute any command with a single click from the activity bar
 - Visual Feedback: See real-time execution status and results in a dedicated panel
@@ -22,7 +24,7 @@ VS Code extension that puts execution control at your fingertips. Quickly run co
 - Custom Categories: Create logical groups for different project types or workflows
 - Quick Search: Find and execute commands instantly with built-in search functionality
 
-# Use Cases
+## Use Cases
 Development Workflows
 - Start development servers (React, Angular, Vue)
 - Run build scripts and deployment commands
